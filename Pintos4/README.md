@@ -6,4 +6,4 @@
 -	stack access에 해당하는 주소에서 발생하는 page fault를 다루기 위한 stack growth를 구현한다.
 -------
 ### 수행 결과
-![7](https://user-images.githubusercontent.com/57051773/120829794-c5d98580-c598-11eb-8c93-3f798c8efb95.jpg)
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/57051773/134831055-9dd0891f-510c-481c-8494-cb8370928895.png">
